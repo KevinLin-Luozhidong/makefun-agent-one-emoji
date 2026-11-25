@@ -8,7 +8,7 @@ Standard library only; no network, no files outside this repository.
 
 import os
 
-LINE = "\U0001F9E9"
+LINE = "\U0001F578\uFE0F"
 
 
 def main():

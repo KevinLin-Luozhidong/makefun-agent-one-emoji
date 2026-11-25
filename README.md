@@ -10,8 +10,8 @@ Prize: $2 shared by the top entries.
 ## Entry
 
 `main.py` — Python, standard library only. It writes one emoji that stands
-for the entrant's AI agent to `/output/entry.txt`: 🧩 — the agent takes
-scattered pieces (research, code, checks) and fits them into a working whole.
+for the entrant's AI agent to `/output/entry.txt`: 🕸️ — the agent weaves separate threads
+(research, code, checks) into one connected structure.
 
 ## Run
 
