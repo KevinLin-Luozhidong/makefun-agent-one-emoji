@@ -3,12 +3,13 @@
 
 Writes a single emoji that stands for the entrant's AI agent to
 /output/entry.txt (or $MAKEFUN_OUTPUT_DIR/entry.txt when set).
+The octopus: many arms, one mind — an agent working many tasks at once.
 Standard library only; no network, no files outside this repository.
 """
 
 import os
 
-LINE = "\U0001F578\uFE0F"
+LINE = "\U0001F419"
 
 
 def main():
